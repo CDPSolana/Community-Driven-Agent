@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="profile.jpg" width="200" style="border-radius: 50%; border: 4px solid #FF66D1; box-shadow: 0 0 20px #6A35A3;" alt="Profile.jpg">
+<img src="Agent.jpg" width="400" style="border-radius: 100%; border: 4px solid #FF66D1; box-shadow: 0 0 20px #6A35A3;" alt="Profile.jpg">
+
+</div>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=35&duration=3500&pause=300&color=6A35A3&center=true&vCenter=true&width=500&lines=✧+CDP.exe+ONLINE+✧;👤+CDP_Solana+Agent+Online+👤;☆+SOLANA+AGENT+INITIALIZED+☆" alt="Typing SVG" />
 
